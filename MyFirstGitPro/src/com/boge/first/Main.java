@@ -7,6 +7,6 @@ public class Main {
 		
 		
 		
-		System.out.println("woshiasshiashaishai");
+		System.out.println("~12122332");
 	}
 }
